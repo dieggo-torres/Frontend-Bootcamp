@@ -2,7 +2,7 @@
 
 Este site é a landing page de uma empresa fictícia que oferece cursos de desenvolvimento web para pessoas que desejam conseguir seu primeiro cargo como desenvolvedor.
 
-Construí este site a partir do tutorial [https://www.youtube.com/watch?v=4sosXZsdy-s](Bootstrap 5 Crash Course | Website Build and Deploy) do Brad Traversy.
+Construí este site a partir do tutorial [Bootstrap 5 Crash Course | Website Build and Deploy](https://www.youtube.com/watch?v=4sosXZsdy-s) do Brad Traversy.
 
 Trata-se de um site de página única, o qual possuí uma barra de navegação que permite o usuário seja levado para a seção do site que desejar.
 
